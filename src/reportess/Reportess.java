@@ -17,6 +17,7 @@ public class Reportess {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Wenas");
+        System.out.println("ptos");
     }
     
 }
